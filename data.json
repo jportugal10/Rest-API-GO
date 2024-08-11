@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Kamal Ayers",
+		"phone": "537-105-9370",
+		"email": "aliquam.tincidunt@google.com",
+		"address": "681-4385 Eros Avenue",
+		"postalZip": "663256",
+		"region": "Kostroma Oblast",
+		"country": "Peru",
+		"list": 3,
+		"text": "malesuada vel, venenatis vel, faucibus id, libero. Donec consectetuer mauris",
+		"numberrange": 9,
+		"currency": "$12.25",
+		"alphanumeric": "OWM28PTN7KO"
+	},
+	{
+		"name": "Shay Vinson",
+		"phone": "16513662646",
+		"email": "amet@aol.com",
+		"address": "562-5401 Ornare, Rd.",
+		"postalZip": "66-215",
+		"region": "Dalarnas län",
+		"country": "France",
+		"list": 3,
+		"text": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+		"numberrange": 2,
+		"currency": "$80.73",
+		"alphanumeric": "SLF34WNW4PR"
+	},
+	{
+		"name": "Savannah Dudley",
+		"phone": "465 590 1542",
+		"email": "cursus.nunc.mauris@icloud.couk",
+		"address": "257-2034 Mauris Ave",
+		"postalZip": "9461",
+		"region": "Heredia",
+		"country": "Philippines",
+		"list": 11,
+		"text": "sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit",
+		"numberrange": 3,
+		"currency": "$48.94",
+		"alphanumeric": "GNW42JYB1LR"
+	},
+	{
+		"name": "Beau Lee",
+		"phone": "13794544231",
+		"email": "varius.et.euismod@aol.com",
+		"address": "Ap #630-815 Suspendisse Avenue",
+		"postalZip": "254527",
+		"region": "Ontario",
+		"country": "Costa Rica",
+		"list": 3,
+		"text": "fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci",
+		"numberrange": 7,
+		"currency": "$38.81",
+		"alphanumeric": "MYH51BJG4VW"
+	},
+	{
+		"name": "Michelle Watts",
+		"phone": "9685576439",
+		"email": "felis@yahoo.com",
+		"address": "459-4025 Porttitor Road",
+		"postalZip": "1366",
+		"region": "Western Australia",
+		"country": "Ireland",
+		"list": 3,
+		"text": "ligula. Donec luctus aliquet odio. Etiam ligula tortor, dictum eu,",
+		"numberrange": 6,
+		"currency": "$82.77",
+		"alphanumeric": "VKF16XIR8BD"
+	}
+]
