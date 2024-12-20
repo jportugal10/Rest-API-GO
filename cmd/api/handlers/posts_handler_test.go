@@ -18,7 +18,8 @@ func TestEndtoEndSuite(t *testing.T) {
 
 func (s *EndToEndSuite) TestPostHandler() {
 	c := http.Client{}
-	r, _ := c.Get("http://localhost:8080/posts")
+	r, err := c.Get("http://localhost:8080/posts")
+	s.Require().NoError(err)
 	s.Equal(http.StatusOK, r.StatusCode)
 }
 

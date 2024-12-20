@@ -23,7 +23,7 @@ func raw() ([]Data, error) {
 	var payload Payload
 	err = json.Unmarshal(r, &payload.Data)
 	if err != nil {
-		log.Fatalf("Unable to unmarshal JSON due to %s", err)
+		log.Printf("Unable to unmarshal JSON due to %s", err)
 		return nil, err
 	}
 	return payload.Data, nil
